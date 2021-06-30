@@ -1,0 +1,5 @@
+1.แตกไฟล์ my-app.rar
+2.ที่เครื่องจะต้องมี nodejs
+3.ใช้ VSCode เปิด terminal ขึ้นมาแล้วไปที่ path my-app
+4.พิมพ์คำสั่ง npm start
+***ทั้งหมดนี้จะต้องรันตัว WebService ก่อน
